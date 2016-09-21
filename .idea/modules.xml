@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HW12MultiThread.iml" filepath="$PROJECT_DIR$/HW12MultiThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/context/context.iml" filepath="$PROJECT_DIR$/context/context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/execution-manager/execution-manager.iml" filepath="$PROJECT_DIR$/execution-manager/execution-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task/task.iml" filepath="$PROJECT_DIR$/task/task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread-manager/thread-manager.iml" filepath="$PROJECT_DIR$/thread-manager/thread-manager.iml" />
+    </modules>
+  </component>
+</project>
